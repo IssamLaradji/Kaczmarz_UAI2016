@@ -1,0 +1,10 @@
+{ "comments": "these are arguments that main.py can parse to run the 4 experiments",
+
+  "1" : "-s A_U A_NU MD -n 100",
+
+  "2" : "-s A_U A_NU MD -n 100",
+
+  "3" : "-s A_U A_NU MD -n 100",
+  
+  "4" : "-s A_U A_NU MD -n 100"
+}
