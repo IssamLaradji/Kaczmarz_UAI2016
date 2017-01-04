@@ -1,4 +1,3 @@
-# Kaczmarz_UAI2016
-This contains the code for the paper Convergence Rates for Greedy Kaczmarz Algorithms, and Faster Randomized Kaczmarz Rules Using the Orthogonality Graph
-
-The paper is available here: https://arxiv.org/abs/1612.07838
+- Paper: Greedy Kaczmarz Algorithms, and Faster Randomized Kaczmarz Rules Using the Orthogonality Graph
+- Authors: Julie Nutini (UBC), Behrooz Sepehry (UBC), Issam Laradji (UBC), Mark Schmidt (UBC), Hoyt Koepke (Dato) and Alim Virani (UBC)
+- Paper Link: https://arxiv.org/abs/1612.07838
